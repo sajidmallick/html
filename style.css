@@ -53,3 +53,27 @@ margin: 20px 0;
     padding: 20px;
     margin: 20px;
 }
+
+a:hover{
+    color: red;
+}
+a:active{
+    color: rgb(4, 73, 33);
+}
+
+a:visited{
+    color: rgba(14, 153, 88, 0.685);
+}
+.categories{
+    border: 1px;
+    padding: 10px;
+    border-radius: 15px;
+}
+.categories h2{
+    text-align: center;
+}
+
+.categories ul{
+    padding: 0%;
+    list-style: square;
+}
